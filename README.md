@@ -49,4 +49,4 @@ npm run dev
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
+[![Coverage Status](https://coveralls.io/repos/github/BittuKumar183040/react-vite-template/badge.svg?branch=main)](https://coveralls.io/github/BittuKumar183040/react-vite-template?branch=main)
