@@ -1,17 +1,16 @@
-import './styles/App.css'
+import './styles/App.css';
 import NavBar from './components/NavBar';
 import Hero from './section/Hero';
 import About from './section/About';
 
 function App() {
-
   return (
     <div id="parentDiv">
       <NavBar />
       <Hero />
-      <About/>
+      <About />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
